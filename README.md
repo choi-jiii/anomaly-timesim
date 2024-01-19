@@ -1,2 +1,2 @@
-# anomaly_timesim
+# Anomaly_timesim
 Similarity Measure based on Anomaly Detection
