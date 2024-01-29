@@ -1,2 +1,3 @@
-# Anomaly_timesim
+# Anomaly time-series simlilarity
+
 Similarity Measure based on Anomaly Detection
