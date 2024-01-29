@@ -1,4 +1,3 @@
-# Github
 
 ### “**Efficient Time-series Similarity Measurement and Ranking Based on Anomaly Detection”**
 
