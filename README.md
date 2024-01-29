@@ -20,7 +20,7 @@ Here are some key areas:
 
 Time series similarity analysis involves assessing how similar two or more time series data are. This process may include comparing patterns, trends, cycles, etc., to identify similarities. 
 
-<img src="https://github.com/choi-jiii/anomaly-timesim/issues/1#issue-2105235269" width="500"> 
+<img src="https://github.com/choi-jiii/anomaly-timesim/assets/90977303/70f851e3-da22-488f-830b-2afc25595d39" width="500"> 
 
 We propose an efficient method for measuring time series similarity that focuses on **anomalies** rather than the entire series.
 
@@ -169,8 +169,8 @@ result_rank_spearman = result_rank.corr(method='spearman')
 
 You can get the result like this:
 
-<img src="https://github.com/choi-jiii/anomaly-timesim/issues/3#issue-2105240155" width="500"> 
+<img src="https://github.com/choi-jiii/anomaly-timesim/assets/90977303/c130b7f8-ab58-4720-a0c3-bdbba351b5ef" width="500"> 
 
 You can also get the ranking. (The following figure shows the ranking case of FastDTW.)
 
-<img src="https://github.com/choi-jiii/anomaly-timesim/issues/2#issue-2105239623" width="500"> 
+<img src="https://github.com/choi-jiii/anomaly-timesim/assets/90977303/96115d2a-c54c-4cf6-8f90-394a6d7a7578" width="150"> 
